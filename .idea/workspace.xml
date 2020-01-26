@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60340273-df59-468c-851a-b0086dc635a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WuZd6NXKvGYOKQIENl0g4BZV5o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60340273-df59-468c-851a-b0086dc635a9" name="Default Changelist" comment="" />
+      <created>1580001525356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580001525356</updated>
+      <workItem from="1580001530654" duration="2185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="43" width="1071" height="812" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580003403787">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="184" y="43" width="1071" height="812" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1580003403787" />
+    <state x="507" y="151" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580003289394">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="507" y="151" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.832@0.23.1440.832" timestamp="1580003289394" />
+    <state x="457" y="230" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580003280633">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="457" y="230" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.832@0.23.1440.832" timestamp="1580003280633" />
+    <state x="221" y="78" key="SettingsEditor" timestamp="1580001928760">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="221" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1580001928760" />
+    <state x="380" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1580001571436">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="380" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1580001571436" />
+  </component>
+</project>

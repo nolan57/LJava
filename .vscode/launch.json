@@ -1,0 +1,148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ColorSliders",
+            "request": "launch",
+            "mainClass": "com.java24hours.awtc.ColorSliders",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CrisisBoxDemo",
+            "request": "launch",
+            "mainClass": "com.java24hours.awtc.CrisisBoxDemo",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CrisisBorderDemo",
+            "request": "launch",
+            "mainClass": "com.java24hours.awtc.CrisisBorderDemo",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SalutonFrame",
+            "request": "launch",
+            "mainClass": "com.java24hours.awtc.SalutonFrame",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FreeSpaceFrame",
+            "request": "launch",
+            "mainClass": "com.java24hours.awtc.FreeSpaceFrame",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PointTester",
+            "request": "launch",
+            "mainClass": "com.java24hours.classc.PointTester",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringLister",
+            "request": "launch",
+            "mainClass": "com.java24hours.classc.StringLister",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModemTestor",
+            "request": "launch",
+            "mainClass": "com.java24hours.classc.ModemTestor",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModemTester",
+            "request": "launch",
+            "mainClass": "com.java24hours.classc.ModemTester",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Benchmark<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.Benchmark",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clock<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.Clock",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstSample<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.FirstSample",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Game<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.Game",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NameSorter<java_64073eb2>",
+            "request": "launch",
+            "args": "200",
+            "mainClass": "com.java24hours.NameSorter",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewRoot<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.NewRoot",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpaceRemover<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.SpaceRemover",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentScores<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.StudentScores",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Wheel<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.Wheel",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cacu<java_64073eb2>",
+            "request": "launch",
+            "mainClass": "com.java24hours.cacu",
+            "projectName": "java_64073eb2"
+        }
+    ]
+}
