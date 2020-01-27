@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ColorFrame",
+            "request": "launch",
+            "mainClass": "com.java24hours.classt.ColorFrame",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinkRotator",
             "request": "launch",
             "mainClass": "com.java24hours.thread.LinkRotator",
