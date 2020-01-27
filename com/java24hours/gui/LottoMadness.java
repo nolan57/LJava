@@ -1,7 +1,7 @@
 // A program from Chapter 14 of Sams Teach Yourself Java in 24 Hours
 // by Rogers Cadenhead, http://www.java24hours.com/
 
-package com.java24hours.awtc;
+package com.java24hours.gui;
  
 import java.awt.*;
 import javax.swing.*;

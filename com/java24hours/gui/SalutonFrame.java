@@ -1,4 +1,4 @@
-package com.java24hours.awtc;
+package com.java24hours.gui;
 
 import javax.swing.*;
 import javax.swing.border.Border;

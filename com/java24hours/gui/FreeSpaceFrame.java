@@ -1,4 +1,4 @@
-package com.java24hours.awtc;
+package com.java24hours.gui;
 
 import java.awt.*;
 import javax.swing.*;

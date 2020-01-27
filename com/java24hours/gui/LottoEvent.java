@@ -1,4 +1,4 @@
-package com.java24hours.awtc;
+package com.java24hours.gui;
 
 import javax.swing.*;
 import java.awt.event.*;
@@ -52,6 +52,13 @@ public class LottoEvent implements ActionListener,
         //+numberGone(int num,JTextField[] pastNume,int count)
         //+addOneToField(JTextField textField)
         //+matcheOne(JTextField win,JTextField[] allPicks)
+        try{
+            //gui→sleep-time
+            //Thread.sleep(sleep-time)
+            Thread.sleep(5000);
+        }catch(InterruptedException exception){
+
+        }
 
     }
 

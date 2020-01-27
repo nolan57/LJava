@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LinkRotator",
+            "request": "launch",
+            "mainClass": "com.java24hours.thread.LinkRotator",
+            "projectName": "java_64073eb2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ColorSliders",
             "request": "launch",
             "mainClass": "com.java24hours.awtc.ColorSliders",

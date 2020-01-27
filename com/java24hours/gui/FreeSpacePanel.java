@@ -1,4 +1,4 @@
-package com.java24hours.awtc;
+package com.java24hours.gui;
 
 import java.io.IOException;
 import java.nio.file.*;
