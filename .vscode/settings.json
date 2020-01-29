@@ -1,6 +1,6 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/Users/i201314/Downloads/glassfish5/**/*.jar"
+        "/Users/i201314/Documents/glassfish5/**/*.jar"
     ]
 }
