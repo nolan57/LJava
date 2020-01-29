@@ -27,6 +27,14 @@ public class PieFrame extends JFrame{
         }
     }
     
+    public void star(){
+        if(paintThread==null){
+            paintThread=new Thread(piePanel);
+            paintThread.start();
+            repaint();
+        }
+    }
+
     public PieFrame(int sliceNumber)throws Exception{
         super("Pie Slices");
         setLookAndFeel();
@@ -48,11 +56,12 @@ public class PieFrame extends JFrame{
             piePanel.addPieSlice(pieSlice.sliceColor, pieSlice.size);
         }
         add(piePanel);
+        /*
         if(paintThread==null){
             paintThread=new Thread(piePanel);
             paintThread.start();
             repaint();
-        }
+        } */
     }
     public PieFrame(){
         super("Pie Slices");
