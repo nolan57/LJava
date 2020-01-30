@@ -4,122 +4,127 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "java",
             "name": "CodeLens (Launch) - PieFrame",
             "request": "launch",
-            "mainClass": "com.java24hours.java2d.PieFrame",
+            "mainClass": "com.nolan.java2d.PieFrame",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - ColorFrame",
             "request": "launch",
-            "mainClass": "com.java24hours.classt.ColorFrame",
+            "mainClass": "com.nolan.classt.ColorFrame",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - LinkRotator",
             "request": "launch",
-            "mainClass": "com.java24hours.thread.LinkRotator",
+            "mainClass": "com.nolan.thread.LinkRotator",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - ColorSliders",
             "request": "launch",
-            "mainClass": "com.java24hours.awtc.ColorSliders",
+            "mainClass": "com.nolan.awtc.ColorSliders",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - CrisisBoxDemo",
             "request": "launch",
-            "mainClass": "com.java24hours.awtc.CrisisBoxDemo",
+            "mainClass": "com.nolan.awtc.CrisisBoxDemo",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - CrisisBorderDemo",
             "request": "launch",
-            "mainClass": "com.java24hours.awtc.CrisisBorderDemo",
+            "mainClass": "com.nolan.awtc.CrisisBorderDemo",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - SalutonFrame",
             "request": "launch",
-            "mainClass": "com.java24hours.awtc.SalutonFrame",
+            "mainClass": "com.nolan.awtc.SalutonFrame",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - FreeSpaceFrame",
             "request": "launch",
-            "mainClass": "com.java24hours.awtc.FreeSpaceFrame",
+            "mainClass": "com.nolan.awtc.FreeSpaceFrame",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - PointTester",
             "request": "launch",
-            "mainClass": "com.java24hours.classc.PointTester",
+            "mainClass": "com.nolan.classc.PointTester",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - StringLister",
             "request": "launch",
-            "mainClass": "com.java24hours.classc.StringLister",
+            "mainClass": "com.nolan.classc.StringLister",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - ModemTestor",
             "request": "launch",
-            "mainClass": "com.java24hours.classc.ModemTestor",
+            "mainClass": "com.nolan.classc.ModemTestor",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - ModemTester",
             "request": "launch",
-            "mainClass": "com.java24hours.classc.ModemTester",
-            "projectName": "java_64073eb2"
+            "mainClass": "com.nolan.classc.ModemTester",
+            "projectName": "java_64073eb2",
         },
         {
             "type": "java",
-            "name": "Debug (Launch) - Current File",
+            "name": "Debug (Launch) - HelloJavaFx",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "com.nolan.javafxvsc.Main",
+            "modulePaths": ["/Users/i201314/Documents/javafx-sdk-11.0.2/lib"],
+            "classPaths": ["/Users/i201314/Documents/java/com/nolan/javafxvsc"],
+            "console": "externalTerminal",
+            "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-Benchmark<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.Benchmark",
+            "mainClass": "com.nolan.Benchmark",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-Clock<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.Clock",
+            "mainClass": "com.nolan.Clock",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-FirstSample<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.FirstSample",
+            "mainClass": "com.nolan.FirstSample",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-Game<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.Game",
+            "mainClass": "com.nolan.Game",
             "projectName": "java_64073eb2"
         },
         {
@@ -127,42 +132,42 @@
             "name": "Debug (Launch)-NameSorter<java_64073eb2>",
             "request": "launch",
             "args": "200",
-            "mainClass": "com.java24hours.NameSorter",
+            "mainClass": "com.nolan.NameSorter",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-NewRoot<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.NewRoot",
+            "mainClass": "com.nolan.NewRoot",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-SpaceRemover<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.SpaceRemover",
+            "mainClass": "com.nolan.SpaceRemover",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-StudentScores<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.StudentScores",
+            "mainClass": "com.nolan.StudentScores",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-Wheel<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.Wheel",
+            "mainClass": "com.nolan.Wheel",
             "projectName": "java_64073eb2"
         },
         {
             "type": "java",
             "name": "Debug (Launch)-cacu<java_64073eb2>",
             "request": "launch",
-            "mainClass": "com.java24hours.cacu",
+            "mainClass": "com.nolan.cacu",
             "projectName": "java_64073eb2"
         }
     ]
